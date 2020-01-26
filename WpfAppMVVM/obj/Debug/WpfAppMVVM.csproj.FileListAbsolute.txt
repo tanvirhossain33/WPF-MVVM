@@ -1,0 +1,16 @@
+C:\Users\Tanvir\source\repos\WpfAppMVVM\WpfAppMVVM\bin\Debug\WpfAppMVVM.exe.config
+C:\Users\Tanvir\source\repos\WpfAppMVVM\WpfAppMVVM\bin\Debug\WpfAppMVVM.exe
+C:\Users\Tanvir\source\repos\WpfAppMVVM\WpfAppMVVM\bin\Debug\WpfAppMVVM.pdb
+C:\Users\Tanvir\source\repos\WpfAppMVVM\WpfAppMVVM\obj\Debug\WpfAppMVVM.csprojAssemblyReference.cache
+C:\Users\Tanvir\source\repos\WpfAppMVVM\WpfAppMVVM\obj\Debug\MainWindow.g.cs
+C:\Users\Tanvir\source\repos\WpfAppMVVM\WpfAppMVVM\obj\Debug\App.g.cs
+C:\Users\Tanvir\source\repos\WpfAppMVVM\WpfAppMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tanvir\source\repos\WpfAppMVVM\WpfAppMVVM\obj\Debug\WpfAppMVVM_MarkupCompile.cache
+C:\Users\Tanvir\source\repos\WpfAppMVVM\WpfAppMVVM\obj\Debug\WpfAppMVVM_MarkupCompile.lref
+C:\Users\Tanvir\source\repos\WpfAppMVVM\WpfAppMVVM\obj\Debug\MainWindow.baml
+C:\Users\Tanvir\source\repos\WpfAppMVVM\WpfAppMVVM\obj\Debug\WpfAppMVVM.g.resources
+C:\Users\Tanvir\source\repos\WpfAppMVVM\WpfAppMVVM\obj\Debug\WpfAppMVVM.Properties.Resources.resources
+C:\Users\Tanvir\source\repos\WpfAppMVVM\WpfAppMVVM\obj\Debug\WpfAppMVVM.csproj.GenerateResource.cache
+C:\Users\Tanvir\source\repos\WpfAppMVVM\WpfAppMVVM\obj\Debug\WpfAppMVVM.csproj.CoreCompileInputs.cache
+C:\Users\Tanvir\source\repos\WpfAppMVVM\WpfAppMVVM\obj\Debug\WpfAppMVVM.exe
+C:\Users\Tanvir\source\repos\WpfAppMVVM\WpfAppMVVM\obj\Debug\WpfAppMVVM.pdb
